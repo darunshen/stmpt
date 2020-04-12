@@ -1,4 +1,4 @@
-# stream protocal service
+# stream protocol service
 
 ----------------
 

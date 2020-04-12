@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/darunshen/stmpts/cmd"
 
 func main() {
-	fmt.Println("The New World Traveling Is Started!")
+	cmd.Execute()
 }
